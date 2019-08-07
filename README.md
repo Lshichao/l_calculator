@@ -14,6 +14,7 @@
 - Operator
 - Number
 - Delete
+- Calculation
 
 ### 测试
 待完成
