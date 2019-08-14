@@ -1,0 +1,16 @@
+E:\MyPepository\K-K-Calculator\Code\nalong.kk.calculator\KKCalculator\bin\Release\KKCalculator.exe.config
+E:\MyPepository\K-K-Calculator\Code\nalong.kk.calculator\KKCalculator\bin\Release\KKCalculator.exe
+E:\MyPepository\K-K-Calculator\Code\nalong.kk.calculator\KKCalculator\bin\Release\KKCalculator.pdb
+E:\MyPepository\K-K-Calculator\Code\nalong.kk.calculator\KKCalculator\obj\Release\KKCalculator.csprojAssemblyReference.cache
+E:\MyPepository\K-K-Calculator\Code\nalong.kk.calculator\KKCalculator\obj\Release\GeneratedInternalTypeHelper.g.cs
+E:\MyPepository\K-K-Calculator\Code\nalong.kk.calculator\KKCalculator\obj\Release\KKCalculator_MarkupCompile.cache
+E:\MyPepository\K-K-Calculator\Code\nalong.kk.calculator\KKCalculator\obj\Release\KKCalculator_MarkupCompile.lref
+E:\MyPepository\K-K-Calculator\Code\nalong.kk.calculator\KKCalculator\obj\Release\KKCalculator.g.resources
+E:\MyPepository\K-K-Calculator\Code\nalong.kk.calculator\KKCalculator\obj\Release\KKCalculator.Properties.Resources.resources
+E:\MyPepository\K-K-Calculator\Code\nalong.kk.calculator\KKCalculator\obj\Release\KKCalculator.csproj.GenerateResource.cache
+E:\MyPepository\K-K-Calculator\Code\nalong.kk.calculator\KKCalculator\obj\Release\KKCalculator.csproj.CoreCompileInputs.cache
+E:\MyPepository\K-K-Calculator\Code\nalong.kk.calculator\KKCalculator\obj\Release\KKCalculator.exe
+E:\MyPepository\K-K-Calculator\Code\nalong.kk.calculator\KKCalculator\obj\Release\KKCalculator.pdb
+E:\MyPepository\K-K-Calculator\Code\nalong.kk.calculator\KKCalculator\obj\Release\View\MainWindow.g.cs
+E:\MyPepository\K-K-Calculator\Code\nalong.kk.calculator\KKCalculator\obj\Release\Others\App.g.cs
+E:\MyPepository\K-K-Calculator\Code\nalong.kk.calculator\KKCalculator\obj\Release\View\MainWindow.baml
